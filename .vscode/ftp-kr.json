@@ -1,0 +1,17 @@
+{
+    "host": "ftp.test.1-mok.ru",
+    "username": "test@test.1-mok.ru",
+    "password": "bxYCAjj6sp",
+    "remotePath": "public_html/",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": false,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode",
+        "/trnsfer"
+    ]
+}
