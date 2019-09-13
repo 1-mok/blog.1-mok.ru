@@ -1,0 +1,52 @@
+.wrapper {
+  display: block;
+  margin: 0 auto;
+  width: 960px;
+}
+.wrapper-645{
+  display: block;
+  width: 645px;
+}
+
+.wrapper-750 {
+  display: block;
+  width: 750px;
+}
+
+.wrapper-270{
+  display: block;
+  width: 270px;
+}
+
+.left {
+  float: left;
+  display: block;
+}
+
+.right {
+  float: right;
+  display: block;
+}
+
+.clear-fix {
+  clear: both;
+  display: block;
+}
+
+.center{
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.inner {
+  display: none;
+}
+
+.pagination {
+  .navigation {
+    li {
+      display: inline-block;
+      margin-bottom: 25px;
+    }
+  }
+}

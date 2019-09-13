@@ -1,0 +1,396 @@
+.sidebar {
+  .banner {
+    margin-bottom: 50px;
+  }
+}
+
+.search {
+  background-color: #e4e6ea;
+  padding: 45px 7px 28px 17px;
+  &-title {
+    padding-left: 7px;
+    color: #696a6a;
+    font-family: OpenSansBold;
+    font-size: 20px;
+    margin-bottom: 53px;
+  }
+  &-area {
+
+    &-input {
+      font-family: OpenSansRegular;
+      font-size: 14px;
+      display: inline-block;
+      border: none;
+      padding: 20px 0 16px 13px;
+    }
+    &-button {
+      background-image: url("../images/search.png");
+      font-size: 14px;
+      padding: 20px 25px 16px 25px;
+      font-family: OpenSansRegular;
+      background-color: white;
+      background-repeat: no-repeat;
+      background-position: center;
+      display: inline-block;
+      border: none;
+      cursor: pointer;
+    }
+    border-bottom: 4px solid #00c177;
+  }
+}
+
+.categories {
+  background-image: url("../images/arrow.png");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: 37px;
+  background-color: #00c177;
+  font-family: OpenSansBold;
+  padding-top: 90px;
+  padding-bottom: 50px;
+  ul {
+    li {
+      margin-bottom: 47px;
+      a {
+        color: #ffffff;
+        display: block;
+        text-decoration: none;
+        text-transform: uppercase;
+      }
+      a:hover {
+        color: #fee03b;
+      }
+      text-align: center;
+    }
+    li:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.tags-banner {
+  color: #696a6a;
+  background-color: #e4e6ea;
+  text-transform: uppercase;
+  font-family: OpenSansBold;
+  padding-left: 6px;
+  padding-right: 5px;
+
+  &-title {
+    padding: 30px 29px 12px 28px;
+    font-size: 18px;
+  }
+  ul {
+    .sub-menu {
+      li {
+        a {
+          font-size: 14px;
+          padding-left: 13px;
+        }
+      }
+    }
+    display: block;
+    li {
+      a {
+        display: block;
+        color: #696a6a;
+        padding: 18px 27px;
+        text-decoration: none;
+        border-bottom: 1px solid #d4d7dd;
+      }
+      a:hover {
+        color: #31b56a;
+      }
+      ul {
+        li {
+          padding-left: 21px;
+        }
+        li:last-of-type {
+          a {
+            border-bottom: 1px solid #d4d7dd;
+          }
+        }
+        a {
+          display: block;
+          color: #696a6a;
+          padding: 18px 27px;
+          text-decoration: none;
+          border-bottom: 1px solid #d4d7dd;
+        }
+
+      }
+      li:last-of-type {
+        a {
+          border-bottom: none;
+        }
+      }
+    }
+
+  }
+}
+
+.metks-banner {
+  color: #696a6a;
+  background-color: #e4e6ea;
+  text-transform: uppercase;
+  padding-left: 6px;
+  padding-right: 5px;
+  padding-bottom: 24px;
+  &-title {
+    padding: 30px 29px 12px 28px;
+    font-size: 18px;
+    font-family: OpenSansBold;
+  }
+  a {
+    font-family: OpenSansRegular;
+    color: #696a6a;
+    padding: 3px 6px;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #31b56a;
+  }
+
+}
+
+.subscribe-banner {
+
+  background-color: #e4e6ea;
+  .title {
+    text-transform: uppercase;
+    padding: 25px;
+    text-align: center;
+    font-family: OpenSansBold;
+    line-height: 20px;
+    font-size: 18px;
+    color: #696a6a;
+  }
+  .input-email {
+    input {
+      width: 210px;
+      height: 12px;
+      font-size: 12px;
+      border: none;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      padding: 20px;
+    }
+  }
+  .subscribers {
+    position: relative;
+    .label {
+      position: absolute;
+      background-image: url("../images/label-subscribe.png");
+      background-repeat: no-repeat;
+      top: 20px;
+      left: -5px;
+      line-height: 14px;
+      padding: 3px 13px 9px 20px;
+      .top {
+        font-family: OpenSansBold;
+        font-size: 10px;
+        text-align: center;
+      }
+      .bottom {
+        text-align: center;
+        font-size: 10px;
+        font-family: OpenSansRegular;
+      }
+    }
+    line-height: 20px;
+    padding: 20px;
+    padding-right: 10px;
+    color: #9b9b9c;
+    font-size: 14px;
+    text-align: right;
+    font-family: OpenSansRegular;
+    #count {
+      color: #696a6a;
+      font-family: OpenSansBold;
+    }
+  }
+  .bottom-banner {
+    background-color: #505256;
+    display: block;
+    padding: 10px 43px;
+    #banner-button-subscribe {
+      text-transform: uppercase;
+      padding: 10px 36px;
+      font-size: 10px;
+      border: #fee03b solid 3px;
+      display: block;
+      color: #ffffff;
+      font-family: OpenSansBold;
+      text-align: center;
+      cursor: pointer;
+    }
+  }
+}
+
+.archive-banner {
+  background-color: #e4e6ea;
+
+  .title {
+    text-transform: uppercase;
+    font-family: OpenSansBold;
+    font-size: 12px;
+    background-color: #01c675;
+    color: #464545;
+    padding: 24px 35px;
+  }
+  .list {
+    padding: 35px;
+    ul {
+      li {
+        font-family: OpenSansRegular;
+        margin-bottom: 20px;
+        a {
+          text-decoration: none;
+          color: #999999;
+        }
+        a:hover {
+          color: #01c675;
+        }
+        .year {
+          color: #01c675;
+        }
+      }
+      li:last-of-type {
+        margin-bottom: 10px;
+      }
+    }
+  }
+}
+
+.new-post-banner {
+  background-color: #e4e6ea;
+  padding: 30px 20px;
+  .title {
+    font-family: OpenSansRegular;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+  }
+  a {
+    color: #616465;
+    text-decoration: none;
+    font-family: OpenSansRegular;
+    font-size: 12px;
+    div {
+      margin-bottom: 4px;
+    }
+  }
+  .image {
+    width: 56px;
+    float: left;
+
+  }
+  .text {
+    margin-left: 65px;
+    .title-post {
+      text-transform: uppercase;
+    }
+  }
+
+}
+
+.quote-banner {
+  padding: 46px 32px;
+  background-color: #e4e6ea;
+  .quote-banner-top {
+    color: #727375;
+    padding: 28px 0 19px 0;
+    text-align: center;
+    border-top: 7px solid #0bc173;
+    border-left: 7px solid #0bc173;
+    border-right: 7px solid #0bc173;
+    .quote-banner-top-day {
+      font-family: OpenSansExtraBold;
+      font-size: 28px;
+    }
+    .quote-banner-top-month {
+      font-family: OpenSansRegular;
+      font-size: 12px;
+      line-height: 18px;
+    }
+  }
+  .quote-banner-center {
+    font-size: 12px;
+    padding: 12px 8px 17px 8px;
+    .quote-banner-center-author {
+      text-transform: uppercase;
+      text-align: center;
+      padding-bottom: 34px;
+      font-family: OpenSansBold;
+      color: black;
+    }
+    .quote-banner-center-text {
+      font-family: OpenSansItalic;
+      text-align: center;
+      line-height: 24px;
+    }
+  }
+  .quote-banner-bottom {
+    font-family: OpenSansBold;
+    font-size: 66px;
+    text-align: center;
+    border-bottom: 7px solid #0bc173;
+    border-left: 7px solid #0bc173;
+    border-right: 7px solid #0bc173;
+  }
+}
+
+.subscribe {
+  display: block;
+  background-color: #e4e6ea;
+  .wrapper {
+    .subscribe-text {
+      padding-top: 85px;
+      padding-bottom: 75px;
+      background-image: url("../images/mail.png");
+      background-repeat: no-repeat;
+      background-position-y: 20px;
+      background-position-x: 35px;
+      .subscribe-text-top {
+        text-transform: uppercase;
+        font-size: 40px;
+        color: #696a6a;
+        font-family: OpenSansBold;
+        line-height: 72px;
+      }
+      .subscribe-text-bottom {
+        padding-top: 35px;
+        text-transform: uppercase;
+        font-family: OpenSansLight;
+        font-size: 14px;
+      }
+
+    }
+
+    .subscribe-input {
+      display: block;
+      margin-top: 115px;
+      margin-bottom: 24px;
+      input {
+        border: none;
+        width: 220px;
+        display: block;
+        padding: 18px 25px;
+      }
+    }
+    .subscribe-more {
+      margin-left: 0;
+      margin-right: 50px;
+      padding-top: 18px;
+      padding-bottom: 15px;
+      margin-bottom: 80px;
+      text-align: center;
+      font-size: 14px;
+      font-family: OpenSansBold;
+      text-transform: uppercase;
+      border: 4px solid #fee03b;
+      letter-spacing: 5px;
+    }
+  }
+}

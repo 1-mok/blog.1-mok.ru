@@ -1,0 +1,100 @@
+#menu-toggler {
+  display: none;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: #a0a0a0;
+  padding: 15px 10px;
+  outline: none;
+}
+
+#menu-toggler span {
+  display: block;
+  position: relative;
+}
+
+#menu-toggler.active span {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+#menu-toggler span,
+#menu-toggler span:before,
+#menu-toggler span:after {
+  height: 3px;
+  width: 17px;
+  background-color: #ffffff;
+
+  -webkit-transition: all 400ms ease-in-out;
+  -o-transition: all 400ms ease-in-out;
+  transition: all 400ms ease-in-out;
+}
+
+#menu-toggler span:before,
+#menu-toggler span:after {
+  content: "";
+  position: absolute;
+  left: 0px;
+  background-color: #ffffff;
+}
+
+#menu-toggler span:before {
+  top: -6px;
+}
+
+#menu-toggler span:after {
+  top: 6px;
+}
+
+#menu-toggler.active span:before,
+#menu-toggler.active span:after {
+  top: 0px;
+
+  -webkit-transform-origin: 50% 50%;
+  -moz-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  -o-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+}
+
+#menu-toggler.active span:before {
+  -webkit-transform: rotate(225deg);
+  -ms-transform: rotate(225deg);
+  -o-transform: rotate(225deg);
+  transform: rotate(225deg);
+}
+
+#menu-toggler.active span:after {
+  -webkit-transform: rotate(-225deg);
+  -ms-transform: rotate(-225deg);
+  -o-transform: rotate(-225deg);
+  transform: rotate(-225deg);
+}
+
+.info {
+  width: 390px;
+  display: block;
+}
+
+@import "reset";
+@import "fonts";
+@import "page";
+@import "header";
+@import "header-menu";
+@import "main-banner";
+@import "banners";
+@import "main";
+@import "sidebar";
+@import "responsive";
+
+#nav-previous{
+    float: left;
+    text-align: left;
+    width: 50%;
+}
+
+#nav-next{
+    float: right;
+    text-align: right;
+    width: 50%;
+}
