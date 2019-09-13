@@ -41,7 +41,7 @@
 <div class="t029"> <div class="t029__container t-container"> <div class="t029__col t-col t-col_8"> <div class="t029__linewrapper" style="opacity:0.2;"> <div class="t029__opacity t029__opacity_left" style="background-image: -moz-linear-gradient(right, #000000, rgba(0,0,0,0)); background-image: -webkit-linear-gradient(right, #000000, rgba(0,0,0,0)); background-image: -o-linear-gradient(right, #000000, rgba(0,0,0,0)); background-image: -ms-linear-gradient(right, #000000, rgba(0,0,0,0));"></div> <div class="t029__line" style="background: #000000;"></div> <div class="t029__opacity t029__opacity_right" style="background-image: -moz-linear-gradient(left, #000000, rgba(0,0,0,0)); background-image: -webkit-linear-gradient(left, #000000, rgba(0,0,0,0)); background-image: -o-linear-gradient(left, #000000, rgba(0,0,0,0)); background-image: -ms-linear-gradient(left, #000000, rgba(0,0,0,0));"></div> </div> </div> </div>
 </div>
 </div>
-<div class="r t-rec t-rec_pt_15 t-rec_pb_60" style="padding-top:15px;padding-bottom:60px; " data-record-type="106" >
+<div class="r t-rec t-rec_pt_15 t-rec_pb_60" style="padding-top:15px;padding-bottom:15px; " data-record-type="106" >
 <!-- T004 -->
 <div class="t004">	<div class="t-container ">	<div class="t-col t-col_8 t-prefix_2">	<div field="text" class="t-text t-text_md " style="">
 
