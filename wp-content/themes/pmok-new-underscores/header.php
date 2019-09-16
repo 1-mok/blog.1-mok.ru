@@ -36,10 +36,10 @@
 
 <body <?php body_class(); ?>>
 
-<header>
+	<header>
 
 <!--allrecords-->
-<div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="1628338" data-tilda-page-id="7232105" data-tilda-page-alias="themes" data-tilda-formskey="8bfb43ea870e3a107294087c4ee4a1ac" >
+<div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="1628338" data-tilda-page-id="7232105" data-tilda-page-alias="header" data-tilda-formskey="8bfb43ea870e3a107294087c4ee4a1ac" >
 <div id="rec126900095" class="r t-rec" style=" " data-record-type="360" >
 <!-- T360 -->
 <style type="text/css"> @media screen and (min-width: 980px) { .t-records { opacity: 0; } .t-records_animated { -webkit-transition: opacity ease-in-out .5s; -moz-transition: opacity ease-in-out .5s; -o-transition: opacity ease-in-out .5s; transition: opacity ease-in-out .5s; } .t-records.t-records_visible { opacity: 1; } }
@@ -87,10 +87,31 @@ $(document).ready(function() { t228_setBg('126900096');
 }
 </style>
 </div>
+<div id="rec128310707" class="r t-rec t-rec_pb_0 t-screenmin-980px" style="padding-bottom:0px; " data-animationappear="off" data-record-type="258" data-screen-min="980px" >
+<!-- T229 -->
+<div id="nav128310707marker"></div>
+<div id="nav128310707" class="t229 t229__positionstatic " style="background-color: rgba(255,255,255,1); height:50px; " data-bgcolor-hex="#ffffff" data-bgcolor-rgba="rgba(255,255,255,1)" data-navmarker="nav128310707marker" data-appearoffset="" data-bgopacity="1" data-menu="yes">	<div class="t229__maincontainer " style="height:50px;"> <div class="t229__padding40px"></div> <div class="t229__centerside ">	<ul class="uppercase">	<li class="t229__list_item"><a class="t-menu__link-item" href="/#search" style="color:#000000;font-size:13px;font-weight:400;text-transform:uppercase;">Поиск</a>	</li>	<li class="t229__list_item"><a class="t-menu__link-item" href="/#archives" style="color:#000000;font-size:13px;font-weight:400;text-transform:uppercase;">Архив</a>	</li>	<li class="t229__list_item"><a class="t-menu__link-item" href="/#categories" style="color:#000000;font-size:13px;font-weight:400;text-transform:uppercase;">Категории</a>	</li>	<li class="t229__list_item"><a class="t-menu__link-item" href="/#tag" style="color:#000000;font-size:13px;font-weight:400;text-transform:uppercase;">Метки</a>	</li>	<li class="t229__list_item"><a class="t-menu__link-item" href="/#posts" style="color:#000000;font-size:13px;font-weight:400;text-transform:uppercase;">Последние</a>	</li>	</ul> </div> <div class="t229__padding40px"></div>	</div>
+</div>
+<script type="text/javascript"> $(document).ready(function() { t229_highlight('7232105'); $('.t229').removeClass('t229__beforeready'); });
+</script>
+<script type="text/javascript"> $(window).resize(function() { t229_setBg('128310707'); }); $(window).load(function() { t229_setBg('128310707'); }); $(document).ready(function() { t229_setBg('128310707'); });
+</script>
+<script type="text/javascript"> $(document).ready(function() { setTimeout(function(){ t_menusub_init('128310707'); }, 500); });
+</script>
+<style>
+@media screen and (max-width: 980px) { #rec128310707 .t-menusub__menu .t-menusub__link-item { color:#000000 !important; }
+}
+</style><!--[if IE 8]>
+<style>
+#rec128310707 .t229 { filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9ffffff', endColorstr='#D9ffffff');
+}
+</style>
+<![endif]-->
+</div>
 <div id="rec126900099" class="r t-rec t-screenmax-980px" style="background-color:#ffffff; " data-animationappear="off" data-record-type="327" data-screen-max="980px" data-bg-color="#ffffff">
 <!-- T282 -->
 <div id="nav126900099marker"></div>
-<div id="nav126900099" class="t282 " data-menu="yes" data-appearoffset=""> <div class="t282__container t282__small t282__positionstatic" style=""> <div class="t282__container__bg" style=" " data-bgcolor-hex="" data-bgcolor-rgba="" data-navmarker="nav126900099marker" data-appearoffset="" data-bgopacity="1" data-menu-shadow="0px 1px 3px rgba(0,0,0,0.)"></div> <div class="t282__container__bg_opened" style="background-color:#f1f2f9;"></div> <div class="t282__menu__content "> <div class="t282__logo__container" style="height:60px;"> <div class="t282__logo__content"><a class="t282__logo" href="/" style="color:#333344;font-size:19px;font-weight:400;letter-spacing:1px;text-transform:uppercase;"><img src="https://static.tildacdn.com/tild3634-3365-4130-b935-316537363538/logo_1_mok_horizont-.svg" style="height: 25px;" class="t280__logo__img" imgfield="img" alt="Колледж | 1-й МОК"></a></div> <div class="t282__burger"> <span style="background-color:#333344;"></span> <span style="background-color:#333344;"></span> <span style="background-color:#333344;"></span> <span style="background-color:#333344;"></span> </div> </div> </div> </div> <div class="t282__menu__container t282__closed"> <div class="t282__menu__wrapper" style="background-color:#f1f2f9;"> <div class="t282__menu"> <div class="t282__menu__items"> <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="https://1-mok.ru/kindergarten" style="color:#333344;font-size:15px;font-weight:400;">Детский сад</a> <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="https://1-mok.ru/school" style="color:#333344;font-size:15px;font-weight:400;">Школа</a> <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="https://artcollege.ru" style="color:#333344;font-size:15px;font-weight:400;">Колледж</a> <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="https://course.1-mok.ru" style="color:#333344;font-size:15px;font-weight:400;">Курсы</a> <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="/" style="color:#333344;font-size:15px;font-weight:400;">События</a> </div> <div class="t282__descr t-descr t-descr__xxs" style="color:#7b3ef8;font-size:24px;"><div style="color:#7b3ef8;" data-customstyle="yes"><a href="tel:+7(495)120-13-02" style="color: rgb(123, 62, 248);"><span style="font-weight: 400;">+7(495)120-13-02</span></a></div></div> </div> </div> </div> <div class="t282__overlay t282__closed"></div>
+<div id="nav126900099" class="t282 " data-menu="yes" data-appearoffset=""> <div class="t282__container t282__small t282__positionstatic" style=""> <div class="t282__container__bg" style=" " data-bgcolor-hex="" data-bgcolor-rgba="" data-navmarker="nav126900099marker" data-appearoffset="" data-bgopacity="1" data-menu-shadow="0px 1px 3px rgba(0,0,0,0.)"></div> <div class="t282__container__bg_opened" style="background-color:#f1f2f9;"></div> <div class="t282__menu__content "> <div class="t282__logo__container" style="height:60px;"> <div class="t282__logo__content"><a class="t282__logo" href="/" style="color:#333344;font-size:19px;font-weight:400;letter-spacing:1px;text-transform:uppercase;"><img src="https://static.tildacdn.com/tild3634-3365-4130-b935-316537363538/logo_1_mok_horizont-.svg" style="height: 25px;" class="t280__logo__img" imgfield="img" alt="Колледж | 1-й МОК"></a></div> <div class="t282__burger"> <span style="background-color:#333344;"></span> <span style="background-color:#333344;"></span> <span style="background-color:#333344;"></span> <span style="background-color:#333344;"></span> </div> </div> </div> </div> <div class="t282__menu__container t282__closed"> <div class="t282__menu__wrapper" style="background-color:#f1f2f9;"> <div class="t282__menu"> <div class="t282__menu__items"> <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="https://1-mok.ru" style="color:#333344;font-size:15px;font-weight:400;">Комплекс</a> <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="/#search" style="color:#333344;font-size:15px;font-weight:400;">Поиск</a> <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="/#archives" style="color:#333344;font-size:15px;font-weight:400;">Архив</a> <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="/#categories" style="color:#333344;font-size:15px;font-weight:400;">Категории</a> <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="/#tag" style="color:#333344;font-size:15px;font-weight:400;">Метки</a> <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="/#posts" style="color:#333344;font-size:15px;font-weight:400;">Последние</a> </div> <div class="t282__descr t-descr t-descr__xxs" style="color:#7b3ef8;font-size:24px;"><div style="color:#7b3ef8;" data-customstyle="yes"><a href="tel:+7(495)120-13-02" style="color: rgb(123, 62, 248);"><span style="font-weight: 400;">+7(495)120-13-02</span></a></div></div> </div> </div> </div> <div class="t282__overlay t282__closed"></div>
 </div>
 <script type="text/javascript"> $(document).ready(function() { t282_showMenu('126900099'); t282_changeSize('126900099');	t282_highlight(); }); $(window).resize(function() { t282_changeSize('126900099'); });
 </script>
@@ -112,8 +133,8 @@ $(document).ready(function() { t228_setBg('126900096');
 <!--/allrecords-->
 
 
-</header>
+	</header>
 
 
 
-		<div id="content" class="site-content">
+	<div id="content" class="site-content">

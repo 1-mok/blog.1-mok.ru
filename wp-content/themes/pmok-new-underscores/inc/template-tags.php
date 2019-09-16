@@ -78,7 +78,7 @@ if ( ! function_exists( 'pmok_entry_footer' ) ) :
 			sprintf(
 				wp_kses(
 					/* translators: %s: Name of current post. Only visible to screen readers */
-					__( 'Edit <span class="screen-reader-text">%s</span>', 'pmok' ),
+					__( 'Редактировать <span class="screen-reader-text">%s</span>', 'pmok' ),
 					array(
 						'span' => array(
 							'class' => array(),
@@ -87,7 +87,7 @@ if ( ! function_exists( 'pmok_entry_footer' ) ) :
 				),
 				get_the_title()
 			),
-			'<span class="edit-link">',
+			'<br /><span class="edit-link">',
 			'</span>'
 		);
 	}

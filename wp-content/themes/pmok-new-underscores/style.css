@@ -708,7 +708,15 @@ a:hover, a:active {
 .post-navigation {
 	margin: 0 0 1.5em;
 	overflow: hidden;
+	margin-left: 6px;
+	margin-right: 6px;
 }
+
+#disqus_thread {
+	margin-left: 6px;
+	margin-right: 6px;
+}
+
 
 .comment-navigation .nav-previous,
 .posts-navigation .nav-previous,

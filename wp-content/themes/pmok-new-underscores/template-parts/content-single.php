@@ -1,6 +1,7 @@
 <?php
+
 /**
- * Template part for displaying results in search pages
+ * Template part for displaying posts
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
@@ -8,7 +9,6 @@
  */
 
 ?>
-
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
@@ -109,13 +109,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="t185__butwrapper t-col t-col_2 "> <a href="<?php the_permalink(); ?>" target="" class="t-btn " style="color:#ffffff;background-color:#7b3ef8;">
-							<table style="width:100%; height:100%;">
-								<tr>
-									<td>Читать далее</td>
-								</tr>
-							</table>
-						</a> </div>
+
 				</div>
 			</div>
 			<style>
