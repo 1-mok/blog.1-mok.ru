@@ -154,11 +154,12 @@
 							<div class="t228__centercontainer">
 								<ul class="t228__list ">
 									<li class="t228__list_item"><a class="t-menu__link-item" href="https://1-mok.ru" style="font-size:12px;font-weight:400;text-transform:uppercase;" data-menu-item-number="1">Комплекс</a> </li>
-									<li class="t228__list_item"><a class="t-menu__link-item" href="https://1-mok.ru/kindergarten" style="font-size:12px;font-weight:400;text-transform:uppercase;" data-menu-item-number="2">Детский сад</a> </li>
+									<li class="t228__list_item"><a class="t-menu__link-item" href="https://1-mok.ru/kindergarten" style="font-size:12px;font-weight:400;text-transform:uppercase;" data-menu-item-number="2">Дошкольное</a> </li>
 									<li class="t228__list_item"><a class="t-menu__link-item" href="https://1-mok.ru/school" style="font-size:12px;font-weight:400;text-transform:uppercase;" data-menu-item-number="3">Школа</a> </li>
-									<li class="t228__list_item"><a class="t-menu__link-item" href="https://artcollege.ru" style="font-size:12px;font-weight:400;text-transform:uppercase;" data-menu-item-number="4">Колледж</a> </li>
-									<li class="t228__list_item"><a class="t-menu__link-item" href="https://course.1-mok.ru" style="font-size:12px;font-weight:400;text-transform:uppercase;" data-menu-item-number="5">Курсы</a> </li>
-									<li class="t228__list_item"><a class="t-menu__link-item" href="/" style="font-size:12px;font-weight:400;text-transform:uppercase;" data-menu-item-number="6">События</a> </li>
+									<li class="t228__list_item"><a class="t-menu__link-item" href="https://mskskills.ru" style="font-size:12px;font-weight:400;text-transform:uppercase;" data-menu-item-number="4">Дополнительное</a> </li>
+									<li class="t228__list_item"><a class="t-menu__link-item" href="https://artcollege.ru" style="font-size:12px;font-weight:400;text-transform:uppercase;" data-menu-item-number="5">Колледж</a> </li>
+									<li class="t228__list_item"><a class="t-menu__link-item" href="https://1-mok.ru/courses" style="font-size:12px;font-weight:400;text-transform:uppercase;" data-menu-item-number="6">Курсы</a> </li>
+									<li class="t228__list_item"><a class="t-menu__link-item" href="/" style="font-size:12px;font-weight:400;text-transform:uppercase;" data-menu-item-number="7">События</a> </li>
 								</ul>
 							</div>
 						</div>
